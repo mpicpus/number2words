@@ -1,23 +1,23 @@
 html, body {
-  height: 80%;
+	height: 80%;
 }
 
 body {
-  display: flex;
+	display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
 body, input {
-  font-size: 35px;
-  font-family: arial, helvetica, sans-serif;
-  text-align: center;
+	font-size: 35px;
+	font-family: arial, helvetica, sans-serif;
+	text-align: center;
 }
 
 #input {
-  border: none;
-  border-bottom: 1px solid #ddd;
+	border: none;
+	border-bottom: 1px solid #ddd;
 }
 
 #input:focus {
@@ -31,7 +31,7 @@ body, input {
 }
 
 .response {
-  margin-top: 20px;
-  font-size: 30px;
-  font-style: italic;
+	margin-top: 20px;
+	font-size: 30px;
+	font-style: italic;
 }
