@@ -1,9 +1,11 @@
 ### Number2Words
 
+See [Number2Words](https://mpicpus.github.io/number2words/) in action.
+
 Tech: JS, HTML, CSS.
 
 Will convert any number from 0 to 999,999 into it's English word equivalent:
-![76455288.png](screenshot01.png)
+![76455288.png](:storage/509be453-3336-4342-9355-de2f5b7c800e/76455288.png)
 
 *(**Disclaimer**: no monkey pictures in this one whatsoever).*
 
